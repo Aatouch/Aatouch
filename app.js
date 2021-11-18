@@ -14,42 +14,42 @@ const LIFF_ID = "1656628995-LYlOBmzB";
 // 
 
 const data = {
-  text: "ทำไรอยู่", //ข้อความตอนแชร์
+  text: "สำหรับพี่นะคะ", //ข้อความตอนแชร์
   content: [
     // Card 1
     {
       image:
-        "https://www.img.in.th/images/e6c293f1bbece5d123becbacb1cec556.jpg", //ลิงก์รูปปก
-      title: "สมัครใหม่วันนี้ แจกฟรี150!", //หัวข้อใหญ่
+        "https://www.img.in.th/images/c8bd2eb408798bd6cfcffab45add2379.jpg", //ลิงก์รูปปก
+      title: "สมัครใหม่วันนี้ แจกฟรี 50-500!", //หัวข้อใหญ่
       message: "สล็อตทุกค่าย & คาสิโน ไม่ต้องฝากก่อน", //ข้อความ
     },
     // Card 2
     {
       image:
-        "https://www.img.in.th/images/2b56d3083e7f4e2d20be0ac63da90c0d.jpg", //ลิงก์รูปปก
-      title: "ฝาก 100 รับ 100 ได้ทุกค่าย", //หัวข้อใหญ่
-      message: "สล็อตทุกค่าย & คาสิโน การเงินมั่นคง", //ข้อความ
+        "https://www.img.in.th/images/534e2f16d1e10c406efd35be98f60634.jpg", //ลิงก์รูปปก
+      title: "ฝาก 100 รับฟรี 100 ได้ทุกค่าย", //หัวข้อใหญ่
+      message: "สล็อตทุกค่าย & คาสิโน ปลอดภัย มั่นคง", //ข้อความ
     },
     // Card 3
     {
       image:
-        "https://www.img.in.th/images/3b9ebc1b10ede9d31d160e26ce51fda4.jpg", //ลิงก์รูปปก
-      title: "แนะนำเพื่อนมาสมัครรับไปเลย 20%!!", //หัวข้อใหญ่
-      message: "สล็อตทุกค่าย & คาสิโน ระบบคุณภาพ", //ข้อความ
+        "https://www.img.in.th/images/8b78d0d822fc1dc767b33ccb4f85ad01.jpg", //ลิงก์รูปปก
+      title: "สมัครใหม่รับไปเลย 50%!!", //หัวข้อใหญ่
+      message: "สล็อตทุกค่าย & คาสิโน ระบบออโต้", //ข้อความ
     },
     // Card 4
     {
       image:
-        "https://www.img.in.th/images/f6507ed36964f7b9264228303473c6a1.jpg", //ลิงก์รูปปก
-      title: "ฝากแรกของวัน รับฟรีโบนัส10% !", //หัวข้อใหญ่
-      message: "สล็อตทุกค่าย & คาสิโน ระบบคุณภาพ", //ข้อความ
+        "https://www.img.in.th/images/d8d1264740796b429088956c45300ec0.jpg", //ลิงก์รูปปก
+      title: "พิเศษวันนี้ฝาก 39รับ100!", //หัวข้อใหญ่
+      message: "สล็อตทุกค่าย & คาสิโน การเงินมั่นคง", //ข้อความ
 	},
 ],
 	
   link: {
-    register: "https://betflix99th.mewallet.cc/register", //ลิงก์ปุ่มสมัคร
+    register: "https://bit.ly/autowallet123", //ลิงก์ปุ่มสมัคร
     shared: `https://liff.line.me/${LIFF_ID}?LINE=true`, //ลิงก์ปุ่มแชร์
-    image: "https://lin.ee/Y1hB1cc", //ลิงก์รูปภาพ
+    image: "https://lin.ee/3hPPTwc", //ลิงก์รูปภาพ
   },
   settings: {
     color: {
